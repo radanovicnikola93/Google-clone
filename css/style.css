@@ -1,0 +1,123 @@
+.google {
+  height: 100%;
+  font-family: arial;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav {
+  display: block;
+}
+
+.nav-links {
+  text-align: right;
+  padding: 15px;
+  font-size: 13px;
+}
+
+.nav-a1,
+.nav-a2,
+.nav-a3,
+.nav-a4 {
+  padding: 0 10px;
+}
+
+.logo {
+  margin: 200px auto 10px auto;
+  position: relative;
+  text-align: center;
+  height: 91px;
+  width: 272px;
+}
+
+img {
+  height: 91px;
+  width: 272px;
+}
+
+.search {
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  align-items: center;
+}
+
+.search-button {
+  width: 125px;
+  height: 36px;
+  font-size: 13px;
+  color: black;
+  border-radius: 0%;
+}
+
+.lucky-button {
+  width: 125px;
+  height: 36px;
+  font-size: 13px;
+  color: black;
+  border-radius: 0%;
+}
+
+.search-field {
+  margin: 5px auto;
+  font-size: 20px;
+  width: 500px;
+  height: 30px;
+  -webkit-box-shadow: 0px 2px 2px 2px rgba(211, 211, 211, 0.9);
+  -moz-box-shadow: 0px 2px 2px 2px rgba(211, 211, 211, 0.9);
+  box-shadow: 0px 2px 2px 2px rgba(211, 211, 211, 0.9);
+  border-top-width: 0;
+  border-left-width: 0;
+}
+
+.buttons {
+  margin-top: 15px;
+}
+
+.simple-text {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 13px;
+}
+
+.a1 {
+  color: blue;
+  font-size: 13px;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 40px;
+    width: 100%;
+    background-color: rgba(211, 211, 211, 0.5);
+}
+
+.links-left {
+  float: left;
+  padding-top: 12px;
+  font-size: 13px;
+}
+
+.al1,
+.al2,
+.al3 {
+  padding: 0 15px;
+}
+
+.links-right {
+  float: right;
+  padding-top: 12px;
+  font-family: arial;
+  font-size: 13px;
+}
+
+.ar1,
+.ar2,
+.ar3 {
+  padding: 0 15px;
+}
