@@ -27,11 +27,13 @@
     </div>
 
     <div class="search">
-        <input class="search-field" type="text">
-      <div class="buttons">
-        <input type="button" value="Google search" class="search-button">
-        <input type="button" value="I'm feeling lucky" class="lucky-button">
-      </div>
+        <form action="https://www.google.com/search" method="GET">
+          <input name="q" class="search-field" type="text">
+          <div class="buttons">
+            <input type="submit" value="Google search" class="search-button">
+            <input type="submit" value="I'm feeling lucky" class="lucky-button">
+          </div>
+        </form>
     </div>
 
       <div class="simple-text">
